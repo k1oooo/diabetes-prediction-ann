@@ -91,8 +91,8 @@ Running the training notebook also saves `training_curves.png` and `confusion_ma
 ## Getting Started
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/k1oooo/diabetes-prediction-ann.git
+cd diabetes-prediction-ann
 pip install -r requirements.txt
 jupyter lab
 ```
